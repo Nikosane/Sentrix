@@ -1,6 +1,4 @@
 # Sentrix
-Sentrix is a powerful IDS leveraging machine learning to detect intrusions and anomalies in network traffic. Combining signature-based and anomaly-based methods, it ensures robust protection against known and emerging threats, providing reliable, real-time network security.
-
 
 ## Objective:
 This project aims to build an Intrusion Detection System (IDS) using machine learning techniques to detect potential intrusions in network traffic. The system can be either signature-based (matching known attack patterns) or anomaly-based (detecting deviations from normal behavior).
