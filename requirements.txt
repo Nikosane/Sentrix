@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tensorflow  # for deep learning-based anomaly detection (optional)
+keras       # for deep learning-based anomaly detection (optional)
